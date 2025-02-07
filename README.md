@@ -1,4 +1,4 @@
-# choice-advantages
+    # choice-advantages
 The user-friendly dashboard shows what reservations are coming up and which ones have happened in the past. With ease attend to guest information, room assignments, and rates, and monitor the cycle of reservation.
 # Keyword
 
@@ -20,7 +20,7 @@ The user-friendly dashboard shows what reservations are coming up and which ones
 ## Author
 **Name**: Your A/C Name  
 **Email**: Your a/c email id  
-**Website**: [Keyword](http://example.com)
+**Website**: [choice advantages](https://www.choice-advantages.com)
 
 ## Getting Started
 1. **Clone the Repository**:
